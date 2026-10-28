@@ -24,7 +24,8 @@ Programm läuft solange, bis das Programm mit "4" beendet wird.
 <h3>WICHTIG!!!</h3>
 Liste wird aktuell noch nicht gespeichert und erlischt, sobald das Programm beendet wird.
 
-In Arbeit:
-Anlegen mehrerer Listen
-Speichern von Listen
-Wiederherstellen wiederkehrender Aufgaben
+
+<h5>In Arbeit:</h5>
+Anlegen mehrerer Listen <br>
+Speichern von Listen <br>
+Wiederherstellen wiederkehrender Aufgaben <br>
