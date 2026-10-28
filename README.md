@@ -2,7 +2,7 @@
 
 <h3>To_Do_Liste:</h3>
 
-Kleines Programm, die Aufgaben entgegen nimmt und in einer Liste speichert.
+Kleines Programm, das Aufgaben entgegen nimmt und in einer Liste speichert.
 
 <h3>Aktueller Stand:</h3>
 
